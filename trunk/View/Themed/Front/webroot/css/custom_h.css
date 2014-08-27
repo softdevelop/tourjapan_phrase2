@@ -1,0 +1,11 @@
+#googlemap, #map-canvas {
+	height: 500px;
+	margin-bottom: 8px;
+}
+.first-img{
+	width: 310px;
+	height: 620px;
+}
+.first-img img{
+	height: 620px;
+}

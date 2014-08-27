@@ -1,0 +1,36 @@
+/* here you can put your own css to customize and override the theme */
+.error-message 
+{
+	color: red;
+}
+#uniform-SponsorAgencyFlag0,#uniform-SponsorAgencyFlag1{margin: 0; padding: 0;}
+#uniform-SponsorAgencyFlag1{padding-left: 10px;}
+label[for="SponsorAgencyFlag0"]{padding-left: 10px;}
+label[for="SponsorAgencyFlag1"]{padding-left: 20px;}
+.radio input[type=radio]{margin: 0;}
+#TourPackageReservationStartMonth,#TourPackageReservationStartDay,#TourPackageReservationStartYear,#TourPackageReservationEndMonth,#TourPackageReservationEndDay,#TourPackageReservationEndYear,#TourPackageScheduleStartMonth,#TourPackageScheduleStartDay,#TourPackageScheduleStartYear,#TourPackageScheduleEndMonth,#TourPackageScheduleEndDay,#TourPackageScheduleEndYear,#NewsScheduleStartYear,#NewsScheduleStartMonth,#NewsScheduleStartDay,#NewsScheduleEndYear,#NewsScheduleEndMonth,#NewsScheduleEndDay,#TourPackageDateClosedYear,#TourPackageDateClosedMonth,#TourPackageDateClosedDay{display: inline-block; width: 15%;}
+.template-download{
+	width: 100%;
+	display: inline-block;
+}
+.table-striped{
+	width: 85%;
+	margin-bottom: 20px;
+	display: inline-block;
+	margin-left: 16%;
+}
+.files{
+	display: inline-block;
+	width: 80%;
+	border: 1px solid silver;
+}
+.bing{
+	width: 94%;
+}
+
+.err{font-size:105%;color:red;}
+
+
+/*.table-striped>tbody>tr>td{
+	width: 40%;
+}*/
